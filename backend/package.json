@@ -11,7 +11,8 @@
     "init-db": "node src/db/init.js",
     "safe-init": "node src/db/init.js",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
+    "lint:fix": "eslint . --fix",
+    "build": "npm install"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
