@@ -12,10 +12,7 @@ dotenv.config();
 const app = express();
 
 // Middleware
-app.use(cors({
-  origin: 'https://student-resource-booking-system.onrender.com',
-  credentials: true
-}));
+app.use(cors()); // Allow all origins in development
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
