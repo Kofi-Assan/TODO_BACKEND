@@ -5,10 +5,10 @@ This is a full-stack web application that allows students to book various resour
 
 ## Deployment Links
 - **Backend (Render)**: [https://todo-backend-10s1.onrender.com]
-  **Frontend(Render)**: [https://todo-frontend-rqqw.onrender.com]
+-  **Frontend(Render)**: [https://todo-frontend-rqqw.onrender.com]
 
-  **Backend(GitHub Pages)**: [https://github.com/Kofi-Assan/TODO_BACKEND.git]
-- **Frontend (GitHub Pages)**: [https://github.com/Kofi-Assan/TODO_FRONTEND.git]
+-  **Backend(GitHub Pages)**: [https://github.com/Kofi-Assan/TODO_BACKEND.git]
+-  **Frontend (GitHub Pages)**: [https://github.com/Kofi-Assan/TODO_FRONTEND.git]
 
 ## Login Details
 - **Admin Account**:
